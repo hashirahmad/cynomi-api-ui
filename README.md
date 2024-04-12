@@ -1,6 +1,6 @@
 # README
 
-- Here is the [video proof](./proof.webm) of local version working
+- Here is the [video proof](./proof.mp4) of local version working
 
 ## How to run?
 
